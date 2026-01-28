@@ -3,7 +3,7 @@ import { getAuth } from "firebase/auth";
 
 const firebaseConfig = {
   // Paste your key directly here as a string
-  apiKey: "070d0e56d10d8d30a7aafc0fc23c8c88", 
+  apiKey: "AIzaSyAjdiblF02FtNLiQLzXvLwvyBMluwdGpuc", 
   authDomain: "netflixgpt-f3487.firebaseapp.com",
   projectId: "netflixgpt-f3487",
   storageBucket: "netflixgpt-f3487.firebasestorage.app",
